@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.dagger:dagger-android-support:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.20.aar/885e522eb175d2883fbabe51338c5065/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8dd17dd51754c55a4204478e36bfed94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anakin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cb95aa13da99a171dab10436360ff2af/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.dagger:dagger-android:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-2.20.aar/397bc01891fd83564ec3e9a9d36bf681/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3cddb046f80d1d4cbb34807b898635ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a30bcdaf0d041f5cf569097398c55b49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/55509845024f8bdee2066f1f791f3af2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fef9de517679e6a6a40a8b6df6fce842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8e345236e780a1c8c8bd581748bd369/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/91366b403452db50d937654dc2f29b43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ffba7896d1ced7190f5d8050e61281f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd54c5a0b73caf7560b130b8545d4218/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/59e5bcc0b89e02b3a17b605c93cb9239/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4adbde5179051e6fece0f2f7a3e59a91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa482791ae27ec42ae94c882f47805c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35d2d965afc1ddc9226c6558b1f29140/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b617ec59b087fa75afdc020083b3ca55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6d9a8d25802fa31fcc55dc1d5b519af/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5e5f96a05e3959f4a2fdb8f7eca880c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae8e670b38ab85f108bdd4ff6f308a1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/55b88f383d41442c64f72ef4d1a7a227/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/21c01b5fb26cde1fd6a570a5f0927c70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6576323cd444bfe369a62dd3da02de7f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51277a5f2146ca565517db580ea1782e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e8359575a84f468ba384042df2f5b8cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a9021d2fbfd4239739377d08d9d1b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a6979fd707291f16f254356ca220132a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8f44e7e3459a0f54a1a3504a43f6167/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:3:11-43
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anakin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cb95aa13da99a171dab10436360ff2af/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anakin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cb95aa13da99a171dab10436360ff2af/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6d9a8d25802fa31fcc55dc1d5b519af/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6d9a8d25802fa31fcc55dc1d5b519af/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:6:13-52
+activity#com.airmh.daggersample.MainActivity
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:17:27-74
+activity#com.airmh.daggersample.test1.Test1Activity
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:21:19-54
+activity#com.airmh.daggersample.test2.Test2Activity
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:22:19-54
+activity#com.airmh.daggersample.test3.Test3Activity
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:23:19-54
+activity#com.airmh.daggersample.test4.Test4Activity
+ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml:24:19-54
+uses-sdk
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+MERGED from [com.google.dagger:dagger-android-support:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.20.aar/885e522eb175d2883fbabe51338c5065/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.20.aar/885e522eb175d2883fbabe51338c5065/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8dd17dd51754c55a4204478e36bfed94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/8dd17dd51754c55a4204478e36bfed94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anakin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cb95aa13da99a171dab10436360ff2af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/anakin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/cb95aa13da99a171dab10436360ff2af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.dagger:dagger-android:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-2.20.aar/397bc01891fd83564ec3e9a9d36bf681/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.20] /Users/anakin/.gradle/caches/transforms-1/files-1.1/dagger-android-2.20.aar/397bc01891fd83564ec3e9a9d36bf681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3cddb046f80d1d4cbb34807b898635ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3cddb046f80d1d4cbb34807b898635ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a30bcdaf0d041f5cf569097398c55b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a30bcdaf0d041f5cf569097398c55b49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/55509845024f8bdee2066f1f791f3af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/55509845024f8bdee2066f1f791f3af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fef9de517679e6a6a40a8b6df6fce842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fef9de517679e6a6a40a8b6df6fce842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8e345236e780a1c8c8bd581748bd369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a8e345236e780a1c8c8bd581748bd369/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/91366b403452db50d937654dc2f29b43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/91366b403452db50d937654dc2f29b43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ffba7896d1ced7190f5d8050e61281f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5ffba7896d1ced7190f5d8050e61281f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd54c5a0b73caf7560b130b8545d4218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd54c5a0b73caf7560b130b8545d4218/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/59e5bcc0b89e02b3a17b605c93cb9239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/59e5bcc0b89e02b3a17b605c93cb9239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4adbde5179051e6fece0f2f7a3e59a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4adbde5179051e6fece0f2f7a3e59a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa482791ae27ec42ae94c882f47805c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/aa482791ae27ec42ae94c882f47805c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35d2d965afc1ddc9226c6558b1f29140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/35d2d965afc1ddc9226c6558b1f29140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b617ec59b087fa75afdc020083b3ca55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b617ec59b087fa75afdc020083b3ca55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/42dc847f13f79931f5374b0c4a7bdaf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6d9a8d25802fa31fcc55dc1d5b519af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b6d9a8d25802fa31fcc55dc1d5b519af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5e5f96a05e3959f4a2fdb8f7eca880c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5e5f96a05e3959f4a2fdb8f7eca880c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae8e670b38ab85f108bdd4ff6f308a1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ae8e670b38ab85f108bdd4ff6f308a1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/55b88f383d41442c64f72ef4d1a7a227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/55b88f383d41442c64f72ef4d1a7a227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/21c01b5fb26cde1fd6a570a5f0927c70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/21c01b5fb26cde1fd6a570a5f0927c70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6576323cd444bfe369a62dd3da02de7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6576323cd444bfe369a62dd3da02de7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51277a5f2146ca565517db580ea1782e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/51277a5f2146ca565517db580ea1782e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e8359575a84f468ba384042df2f5b8cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e8359575a84f468ba384042df2f5b8cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a9021d2fbfd4239739377d08d9d1b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/84a9021d2fbfd4239739377d08d9d1b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a6979fd707291f16f254356ca220132a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/anakin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a6979fd707291f16f254356ca220132a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8f44e7e3459a0f54a1a3504a43f6167/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/anakin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f8f44e7e3459a0f54a1a3504a43f6167/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		ADDED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
+		INJECTED from /Users/anakin/WorkSpace/DaggerSample/daggersample/src/main/AndroidManifest.xml
